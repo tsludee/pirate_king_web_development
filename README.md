@@ -29,6 +29,13 @@ Overall, a great refresher on HTML5.
 *2/38 Complete 7/10/23*
 
 ## 3. CSS
+Did it really take me 3 months to complete this? No, I got a new job and that took priority over this. Oops. But I'm back in the saddle again. 
+
+Another great video from Traversy Media. This one taught me a lot about the terminology for certain functions that come about in CSS. I learned/remembered a lot.
+
+Looking ahead, I'm a little daunted because there is so much to do. I've been stuck in "tutorial hell" though! I'm excited to keep perservering though and get beyond where I've been. Bootstrap is something I've never messed with before, so I think that will be a nice "fresh" topic for me to pursue. Then it'll be a lot of things that I've done before, but jQuery will be new, too! And then... It's <strong>all</strong> new.
+
+*3/38 Complete 10/31/23*
 
 ## 4. Bootstrap
 
