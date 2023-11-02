@@ -38,6 +38,9 @@ Looking ahead, I'm a little daunted because there is so much to do. I've been st
 *3/38 Complete 10/31/23*
 
 ## 4. Bootstrap
+OK - I'm about half an hour into this crash course, but it's time for work, but I have built a navbar and a landing page showcase section. So far, I love Bootstrap. More to come!
+
+*4/38 In Progress 11/2/23*
 
 ## 5. Git
 
