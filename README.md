@@ -40,7 +40,11 @@ Looking ahead, I'm a little daunted because there is so much to do. I've been st
 ## 4. Bootstrap
 OK - I'm about half an hour into this crash course, but it's time for work, but I have built a navbar and a landing page showcase section. So far, I love Bootstrap. More to come!
 
-*4/38 In Progress 11/2/23*
+Wow. There is a lot going on with Bootstrap. What have I learned from this? READ THE DOCUMENTATION. Holy smokes, there's no way I can memorize all that it can do!
+
+Alright, I have to say, building cards in this was SO MUCH easier than in the past. This was pretty interesting. I recognize that this video had a paid sponsor in Hostinger, but it seemed so easy to use GitHub to push a website and deploy it. I'll be creating my own portfolio in a couple of steps, so... get ready world wide web.
+
+*4/38 Complete 11/3/23*
 
 ## 5. Git
 
