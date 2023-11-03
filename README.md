@@ -47,6 +47,9 @@ Alright, I have to say, building cards in this was SO MUCH easier than in the pa
 *4/38 Complete 11/3/23*
 
 ## 5. Git
+Am I going to take a shortcut here? Yes. I have done a lot of Git command practice in the past... I'm going to bookmark this video... bookmark a cheatsheet... and call it a day.
+
+*5/38 Complete*
 
 ## 6. Frontend Portfolio Project v1
 
