@@ -54,9 +54,11 @@ Am I going to take a shortcut here? Yes. I have done a lot of Git command practi
 ## 6. Frontend Portfolio Project v1
 Alright. I've built a portfolio website in the past, but I followed along with a YouTuber, changed some colors, and called it my own. this time, I'm going to try and build one on my own. Let's see what I can come up with!
 
-*6/38 In Progress 11/3/23*
-
 UPDATE: I never know what to put here... I'm not interesting and I don't have a lot of experience/projects to show off... I'm stalling a bit. I'll look online for some examples.
+
+UPDATE: Ok... it's starting to come together. I still don't have a great array of items to put into the projects section, but once I do... you better believe I'll fill it up!
+
+*6/38 Complete 11/4/23*
 
 ## 7. GitHub Pages
 

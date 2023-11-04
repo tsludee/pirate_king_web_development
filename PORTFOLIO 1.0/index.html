@@ -19,17 +19,11 @@
             <div class="collapse navbar-collapse" id="navmenu">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link">About Me</a>
-                    </li>
-                    <li class="nav-item">
                         <a href="#skills" class="nav-link">Skills</a>
                     </li>
                     <li class="nav-item">
                         <a href="#projects" class="nav-link">Projects</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a href="#eduexp" class="nav-link">Education/Experience</a>
-                    </li> -->
                     <li class="nav-item">
                         <a href="#contact" class="nav-link">Contact</a>
                     </li>
@@ -43,14 +37,105 @@
         <div class="container">
             <div class="d-sm-flex align-items-center justify-content-between">
                 <div>
-                    <h1>Hi, I'm <span class="text-warning">Taylor sluder</span> a web developer.</h1>
-                    <p class="lead my-4">We focus on teaching our students the fundamentals of the latest and greatest technologies to prepare them for their first developer role.
+                    <h1>Hi, I'm <span class="text-warning">Taylor Sluder</span> a web developer.</h1>
+                    <p class="lead my-4">
+                        I focus primarily on front end development and UX design aspects.
                     </p>
-                    <button class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#enroll">Start Enrollment</button>
+                    <!-- <button class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#enroll">Start Enrollment</button> -->
                 </div>
-                <img class="img-fluid w-50 d-none d-sm-block" src="img/showcase.svg" alt="illustrated drawing of a developer">
+                <img class="img-fluid w-50 d-none d-sm-block mt-5" src="img/developer.svg" alt="illustrated drawing of a developer">
             </div>
         </div>
+    </section>
+
+    <!-- Skills -->
+    <section class="p-5" id="skills">
+        <div class="container">
+            <h2 class="text-center pb-3">Skills</h2>
+        </div>
+        <div class="container">
+            <div class="row text-center g-4">
+                <div class="col-md">
+                    <div class="card bg-primary text-light">
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-filetype-html"></i>
+                            </div>
+                            <h3 class="card-title">HTML</h3>
+                            <p class="card-text"></p>
+                            <!-- <a href="#" class="btn btn-primary">Read More</a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md"><div class="card bg-primary text-light">
+                    <div class="card-body text-center">
+                        <div class="h1 mb-3">
+                            <i class="bi bi-filetype-css"></i>
+                        </div>
+                        <h3 class="card-title">CSS</h3>
+                        <p class="card-text"></p>
+                        <!-- <a href="#" class="btn btn-dark">Read More</a> -->
+                    </div>
+                </div></div>
+                <div class="col-md"><div class="card bg-primary text-light">
+                    <div class="card-body text-center">
+                        <div class="h1 mb-3">
+                            <i class="bi bi-filetype-js"></i>
+                        </div>
+                        <h3 class="card-title">JavaScript</h3>
+                        <p class="card-text"></p>
+                        <!-- <a href="#" class="btn btn-primary">Read More</a> -->
+                    </div>
+                </div></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects">
+        <!-- Project Highlight 1 -->
+        <section class="p-5">
+            <h2 class="text-center">Portfolio Highlights</h2>
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-md">
+                        <img src="img/fundamentals.svg" class="img-fluid" alt="illustration of programming languages known">
+                    </div>
+                    <div class="col-md p-5">
+                        <h2>Learn the Fundamentals</h2>
+                        <p class="lead">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse molestiae accusantium sequi quibusdam ad optio?
+                        </p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dicta voluptatum rerum ex earum perferendis minima magni, facilis ipsam voluptate, delectus aspernatur modi blanditiis numquam debitis illum id tempora mollitia?
+                        </p>
+                        <a href="#" class="btn btn-light mt-3">
+                            <i class="bi bi-chevron-right"></i>Read More
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Project Highlight 2 -->
+        <section id="learn" class="p-5 bg-dark text-light">
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-md p-5">
+                        <h2>Learn React</h2>
+                        <p class="lead">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse molestiae accusantium sequi quibusdam ad optio?
+                        </p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dicta voluptatum rerum ex earum perferendis minima magni, facilis ipsam voluptate, delectus aspernatur modi blanditiis numquam debitis illum id tempora mollitia?
+                        </p>
+                        <a href="#" class="btn btn-light mt-3">
+                            <i class="bi bi-chevron-right"></i>Read More
+                        </a>
+                    </div>
+                    <div class="col-md">
+                        <img src="img/react.svg" class="img-fluid" alt="illustration of programming languages known">
+                    </div>
+                </div>
+            </div>
+        </section>
     </section>
 
     <!-- Work History? I don't know what to put here... -->
@@ -62,39 +147,61 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#current" aria-expanded="false" aria-controls="flush-collapseOne">
-                      <span class="fw-bold pd-1">Continuing Education Planner </span>MAHEC - Asheville, NC
+                      <span class="fw-bold p-2 justify-content-end">Continuing Education Planner </span>MAHEC - Asheville, NC
                     </button>
                   </h2>
                   <div id="current" class="accordion-collapse collapse" data-bs-parent="#workhistory">
-                    <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum totam aliquid quaerat. Ipsam magnam, debitis, dignissimos amet laborum ipsum repellendus nam nostrum molestias at saepe deleniti dolorem sed corporis reiciendis autem delectus ab magni distinctio vel obcaecati suscipit. Earum tenetur iste dolor nulla, repellendus fugit porro repellat est praesentium ullam?</div>
+                    <h3 class="lead mt-1 text-center">2023-Present</h3>
+                    <div class="accordion-body"> In this role, I Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aut quibusdam expedita asperiores minima pariatur.</div>
                   </div>
                 </div>
                 <!-- Item 2 -->
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#previous" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        How much does it cost to attend?
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#previous2" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        <span class="fw-bold p-2">English Teacher</span> TC Roberson High School - Asheville, NC
                       </button>
                     </h2>
-                    <div id="previous" class="accordion-collapse collapse" data-bs-parent="#questions">
+                    <div id="previous2" class="accordion-collapse collapse" data-bs-parent="#workhistory">
                       <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum totam aliquid quaerat. Ipsam magnam, debitis, dignissimos amet laborum ipsum repellendus nam nostrum molestias at saepe deleniti dolorem sed corporis reiciendis autem delectus ab magni distinctio vel obcaecati suscipit. Earum tenetur iste dolor nulla, repellendus fugit porro repellat est praesentium ullam?</div>
                     </div>
                 </div>
                 <!-- Item 3 -->
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#question-three" aria-expanded="false" aria-controls="flush-collapseThree">
-                        What do I need to know?
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#previous1" aria-expanded="false" aria-controls="flush-collapseThree">
+                        <span class="fw-bold p-2">English Teacher</span> Enka High School - Candler, NC
                       </button>
                     </h2>
-                    <div id="question-three" class="accordion-collapse collapse" data-bs-parent="#questions">
+                    <div id="previous1" class="accordion-collapse collapse" data-bs-parent="#workhistory">
                       <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum totam aliquid quaerat. Ipsam magnam, debitis, dignissimos amet laborum ipsum repellendus nam nostrum molestias at saepe deleniti dolorem sed corporis reiciendis autem delectus ab magni distinctio vel obcaecati suscipit. Earum tenetur iste dolor nulla, repellendus fugit porro repellat est praesentium ullam?</div>
                     </div>
                 </div>
                 
         </div>
     </section>
-
+    
+    <!-- Contact -->
+    <section class="p-5 bg-primary text-light" id="contact">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-md">
+                    <h2 class="text-center mb-4">Contact Info</h2>
+                    <ul class="list-group list-group-flush lead">
+                        <li class="list-group-item bg-primary text-light">
+                            <span class="fw-bold">LinkedIn </span> <a href="#" class="bi bi-linkedin text-light"></a>
+                        </li>
+                        <li class="list-group-item bg-primary text-light">
+                            <span class="fw-bold">GitHub </span><a href="" class="bi bi-github text-light"> </a>
+                        </li>
+                        <li class="list-group-item bg-primary text-light">
+                            <span class="fw-bold">Email Address:</span> tsludee@gmail.com
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
 
 <!-- Footer -->
     <footer class="p-5 bg-dark text-white text-center position-relative">
