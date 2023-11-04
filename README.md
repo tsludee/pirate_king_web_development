@@ -49,9 +49,14 @@ Alright, I have to say, building cards in this was SO MUCH easier than in the pa
 ## 5. Git
 Am I going to take a shortcut here? Yes. I have done a lot of Git command practice in the past... I'm going to bookmark this video... bookmark a cheatsheet... and call it a day.
 
-*5/38 Complete*
+*5/38 Complete 11/3/23*
 
 ## 6. Frontend Portfolio Project v1
+Alright. I've built a portfolio website in the past, but I followed along with a YouTuber, changed some colors, and called it my own. this time, I'm going to try and build one on my own. Let's see what I can come up with!
+
+*6/38 In Progress 11/3/23*
+
+UPDATE: I never know what to put here... I'm not interesting and I don't have a lot of experience/projects to show off... I'm stalling a bit. I'll look online for some examples.
 
 ## 7. GitHub Pages
 
