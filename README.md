@@ -1,5 +1,5 @@
 # pirate_kingdom_web_development
- This is my progress in following the PirateKing's Web Development Course.
+ This is my progress in following PirateKing's Web Development Course.
 
  *Disclaimer -- this README is really more of a journal of my progress than anything else.*
 
