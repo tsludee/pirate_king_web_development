@@ -61,6 +61,11 @@ UPDATE: Ok... it's starting to come together. I still don't have a great array o
 *6/38 Complete 11/4/23*
 
 ## 7. GitHub Pages
+Okey-dokey - just have to upload this to GitHub Pages - can do! I've done this before in the past, but this way of doing it seems different...
+
+I think I'm going to hold off on buying a domain name for now and just use the free version from GitHub Pages.
+
+*7/38 In Progress 11/4/23*
 
 ## 8. JavaScript
 
